@@ -1,8 +1,8 @@
 {
-  "homepage": "http://calorie-chef.github.io/calorie_chef1",
-  "name": "calorie_chefs",
+  "homepage": "https://calorie-chef.github.io/calorie_chef1",
+  "name": "calorie_chef1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
