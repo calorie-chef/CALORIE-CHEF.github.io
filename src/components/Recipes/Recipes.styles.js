@@ -9,7 +9,6 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 margin: 6rem 0;
-
 `;
 
 export const RecipeContainer = styled(Container)`
